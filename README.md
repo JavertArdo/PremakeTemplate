@@ -1,1 +1,2 @@
 # PremakeTemplate
+Cross-platform configuration
